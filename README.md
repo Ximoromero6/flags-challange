@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ximoromero6/flags-challange)
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Solution Here](https://github.com/Ximoromero6/flags-challange)
+- Live Site URL: [Live Site](https://ximoromero6.github.io/flags-challange/)
 
 ### Built with
 
@@ -41,6 +41,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://ximoromero.es)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Ximoromero6)
-- Instagram - [@yourusername](https://www.instagram.com/ximoromero5)
+- Website - [ximoromero.es](https://ximoromero.es)
+- Frontend Mentor - [@Ximoromero6](https://www.frontendmentor.io/profile/Ximoromero6)
+- Instagram - [@Ximoromero5](https://www.instagram.com/ximoromero5)
