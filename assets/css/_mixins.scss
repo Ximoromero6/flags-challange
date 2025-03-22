@@ -1,0 +1,13 @@
+@mixin theme($theme) {
+  background-color: map-get($theme, background);
+  color: map-get($theme, text);
+
+  input {
+    background-color: map-get($theme, input);
+    color: map-get($theme, text);
+  }
+
+  .element {
+    background-color: map-get($theme, elements);
+  }
+}
